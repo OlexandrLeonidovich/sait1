@@ -1,3 +1,7 @@
-*{
-size:12px;
+
+body {
+    font-size: 12px;
+    background-color: aqua;
+    width: 800px;
+    height: 800px;
 }
